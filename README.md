@@ -4,7 +4,7 @@
 
 # Project: Encuesta Tesalia
 
-## Introduccion 
+## Introduction 
 
 La aplicación está diseñada para facilitar la gestión y disponibilidad de dispositivos móviles utilizados por los vendedores, mediante encuestas dirigidas a jefes y gerentes comerciales. IT establece previamente los valores de inventario, definiendo la cantidad y tipo de dispositivos disponibles. Estos datos son contrastados con las necesidades del área comercial, permitiendo una alineación eficiente entre los recursos existentes y las demandas operativas. La herramienta brinda visibilidad en tiempo real sobre el stock de equipos, asegurando que los vendedores cuenten con las herramientas necesarias para capturar pedidos de manera ágil. Además, optimiza el control de inventario, evitando faltantes o excesos, y proporciona un campo de acción claro para la toma de decisiones estratégicas en la distribución de dispositivos.
 
