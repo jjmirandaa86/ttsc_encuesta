@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/jjmirandaa86/ttsc_encuesta/refs/heads/master/public/assets/Documentacion/LogoTesalia.png)
 
 
-# Proyecto: Encuesta Tesalia
+# Project: Encuesta Tesalia
 
 ## Introduccion 
 
